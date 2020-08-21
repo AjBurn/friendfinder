@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Caitlin",
-      photo: "",
+      photo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Freal-people&psig=AOvVaw3f3U4iEcRYWjKg725_xwai&ust=1598067552577000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD_5Nevq-sCFQAAAAAdAAAAABAQ",
       scores: [
         "3",
         "5",
