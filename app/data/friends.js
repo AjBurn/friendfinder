@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Steven",
-      photo: "",
+      photo: "https://user-images.githubusercontent.com/60077953/90853188-9bcf1380-e336-11ea-98ca-372e507eb29d.jpeg",
       scores: [
         "5",
         "3",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
       name: "Miah",
-      photo: "",
+      photo: "https://user-images.githubusercontent.com/60077953/90853143-82c66280-e336-11ea-9209-98ad38b02131.jpeg",
       scores: [
         "5",
         "4",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Justin",
-      photo: "",
+      photo: "https://user-images.githubusercontent.com/60077953/90853052-53175a80-e336-11ea-9a69-33fa46a32c4f.jpeg",
       scores: [
         "4",
         "2",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "Kyle",
-      photo: "",
+      photo: "https://user-images.githubusercontent.com/60077953/90853127-77733700-e336-11ea-86b7-0c409e9a4169.jpeg",
       scores: [
         "3",
         "5",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
       name: "Jackson",
-      photo: "",
+      photo: "https://user-images.githubusercontent.com/60077953/90853208-aa1d2f80-e336-11ea-93ee-964f90d6967d.jpeg",
       scores: [
         "5",
         "5",
