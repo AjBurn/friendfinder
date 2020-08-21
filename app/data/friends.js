@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Caitlin",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      photo: "",
       scores: [
         "3",
         "5",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Steven",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      photo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stockvault.net%2Fc%2Fpeople&psig=AOvVaw3f3U4iEcRYWjKg725_xwai&ust=1598067552577000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD_5Nevq-sCFQAAAAAdAAAAABAD",
       scores: [
         "5",
         "3",
