@@ -33,7 +33,7 @@ var friends = [
     },
     {
       name: "Miah",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      photo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fstock-photos%2Fnormal-people.html&psig=AOvVaw3f3U4iEcRYWjKg725_xwai&ust=1598067552577000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD_5Nevq-sCFQAAAAAdAAAAABAW",
       scores: [
         "5",
         "4",
@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Justin",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      photo: "https://depositphotos.com/24084437/stock-photo-portrait-of-a-normal-boy.html",
       scores: [
         "4",
         "2",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "Kyle",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      photo: "https://depositphotos.com/35204477/stock-photo-portrait-of-an-handsome-blonde.html",
       scores: [
         "3",
         "5",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
       name: "Jackson",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      photo: "https://depositphotos.com/130016590/stock-photo-young-man-in-studio.html",
       scores: [
         "5",
         "5",
