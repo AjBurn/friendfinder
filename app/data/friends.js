@@ -1,8 +1,7 @@
 var friends = [
     {
       name: "Caitlin",
-      photo: "(https://user-images.githubusercontent.com/60077953/90852648-42b2b000-e335-11ea-9f3a-78e4124a2f4c.jpeg)
-      ",
+      photo: "https://user-images.githubusercontent.com/60077953/90852648-42b2b000-e335-11ea-9f3a-78e4124a2f4c.jpeg",
       scores: [
         "3",
         "5",
